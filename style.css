@@ -71,8 +71,9 @@ body{
 }
 
 .photo1 {
-    width: 105%;
-    height: 105%;
+
+    object-fit: cover;
+    overflow: hidden;
 }
 
 h2{
